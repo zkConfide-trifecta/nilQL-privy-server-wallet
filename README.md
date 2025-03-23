@@ -1,5 +1,5 @@
 
-## 🚀 Marlin Integration – TEE-Backed Relays for Privy + NilQL Wallets
+## 🚀 Nillion LLM / Marlin Integration – TEE-Backed Relays for Privy + NilQL Wallets
 
 We use **Marlin** to relay signed transactions from zkConfide’s **ephemeral server wallets**, which are built on **Privy** and **NilQL**.
 
